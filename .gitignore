@@ -1,0 +1,11 @@
+# data
+data/*
+.vscode
+.vscode/*
+tdg.egg-info
+tdg.egg-info/*
+
+
+# training result
+training_*
+training_*/*
