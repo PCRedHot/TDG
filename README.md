@@ -31,7 +31,7 @@ data
 │   │   └── label2
 │   ├── training
 │   │   ├── label1
-└── └── └── label2
+│   │   └── label2
 ```
 
 Put all the data in training folder, run `testing_transfer.py` to randomise the testing images
