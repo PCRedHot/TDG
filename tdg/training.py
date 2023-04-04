@@ -87,7 +87,7 @@ n_classes = np.max(train_generator.classes) + 1
 # metrics = ['accuracy', 'val_accuracy']
 metrics = ['accuracy']
 
-checkpoint_folder = 'training_4'
+checkpoint_folder = 'results/training_4'
 checkpoint_folder_path = os.path.join(os.path.dirname(
     os.path.dirname(__file__)), checkpoint_folder)
 
