@@ -16,14 +16,6 @@ Then, pip install the project for development
 
 The data of the images should be in such hierarchy 
 
-data
-| training
-  | label1
-  | label2
-| testing
-  | label1
-  | label2
-
 ```bash
 ├── data
 │   ├── training
