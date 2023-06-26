@@ -1,6 +1,5 @@
 # data
-data/testing/*
-data/training/*
+data*/
 .vscode
 .vscode/*
 tdg.egg-info
